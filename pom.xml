@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexusRepo</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
 	      <url>http://54.88.156.90:8081/repository/nexus-snap/</url>
 	    </snapshotRepository>
 	    
